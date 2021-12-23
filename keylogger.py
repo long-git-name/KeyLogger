@@ -44,7 +44,7 @@ def sendEmail(message):
 	port = 587 
 	sender_email = mail_data.send_email
 	password = mail_data.pss
-	receiver_email = "longnguyen.01277157873@gmail.com"
+	receiver_email = "Your Email"
 
 	context = ssl.create_default_context()
 
