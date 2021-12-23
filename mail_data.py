@@ -1,2 +1,2 @@
-send_email = "longnguyen.01277157873@gmail.com"
-pss = "gmail_com123"
+send_email = "Your Email"
+pss = "Your password"
